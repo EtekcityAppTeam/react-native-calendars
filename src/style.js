@@ -33,3 +33,6 @@ export const monthTextColor = textDefaultColor;
 export const agendaDayTextColor = '#7a92a5';
 export const agendaDayNumColor = '#7a92a5';
 export const agendaTodayColor = textLinkColor;
+
+
+export const monthBGColor   = 'green'; // MYADD 扩展header

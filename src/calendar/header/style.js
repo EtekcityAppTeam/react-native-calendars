@@ -9,7 +9,8 @@ export default function(theme={}) {
       justifyContent: 'space-between',
       paddingLeft: 10,
       paddingRight: 10,
-      alignItems: 'center'
+      alignItems: 'center',
+      backgroundColor:appStyle.monthBGColor // MYADD 添加属性
     },
     monthText: {
       fontSize: appStyle.textMonthFontSize,
